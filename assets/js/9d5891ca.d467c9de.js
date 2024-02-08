@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[50061],{86551:e=>{e.exports=JSON.parse('{"permalink":"/km-docusaurus-test/updates","page":1,"postsPerPage":10,"totalPages":2,"totalCount":16,"nextPage":"/km-docusaurus-test/updates/page/2","blogDescription":"Product updates","blogTitle":"Updates"}')}}]);
